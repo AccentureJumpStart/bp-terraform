@@ -1,9 +1,9 @@
 # BP-Terraform
-Sample project using Terraform to provision and configure resources for Jump Start's Blue Prism application.
+Sample project using Terraform to provision and configure resources for Jump Start's Blue Prism application
 
 ## Instructions
 
-*This assumes you have Terraform installed and an AWS account.*
+*This assumes you have Terraform installed and an AWS account*
 
 1. Clone this repo
 
