@@ -13,4 +13,4 @@ Sample project using Terraform to provision and configure resources for Jump Sta
 
 4. From the terminal, navigate to **bp-test** and run `terraform init` then `terraform plan -var-file='..\terraform.tfvars'`
 
-5. Run `terraform apply -var-file='..\terraform.tfvars'` to deploy your infrastructure to AWS and `terraform plan -var-file='..\terraform.tfvars'` to remove it
+5. Run `terraform apply -var-file='..\terraform.tfvars'` to deploy your infrastructure to AWS and `terraform destroy -var-file='..\terraform.tfvars'` to remove it
